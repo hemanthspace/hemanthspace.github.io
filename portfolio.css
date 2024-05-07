@@ -1,0 +1,1203 @@
+body{
+    font-family: Montserrat !important;
+}
+
+
+.style-0 {
+    cursor: auto;
+    font-family: Inter, sans-serif;
+    background: rgb(247, 247, 247) none repeat scroll 0% 0% / auto padding-box border-box;
+    color: rgb(23, 23, 23);
+    scroll-behavior: smooth;
+    margin: 0px;
+    line-height: 24px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-1 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-2 {
+    padding-top: 24px;
+    padding-left: 20px;
+    padding-right: 20px;
+    max-width: 576px;
+    min-width: 420px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-3 {
+    padding-bottom: 16px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-4 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-5 {
+    color: rgb(107, 114, 128);
+    font-size: 12px;
+    line-height: 16px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+    gap: 16px;
+    justify-content: flex-end;
+    align-items: center;
+    user-select: none;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-6 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    cursor: pointer;
+    color: rgb(107, 114, 128);
+    text-decoration: none solid rgb(107, 114, 128);
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-7 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+    text-decoration-style: dotted;
+    text-decoration-color: rgb(156, 163, 175);
+    text-decoration-line: underline;
+    cursor: pointer;
+    color: rgb(107, 114, 128);
+    text-decoration: underline 1px dotted rgb(156, 163, 175);
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-8 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+    text-decoration-style: dotted;
+    text-decoration-color: rgb(156, 163, 175);
+    text-decoration-line: underline;
+    cursor: pointer;
+    color: rgb(107, 114, 128);
+    text-decoration: underline 1px dotted rgb(156, 163, 175);
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-9 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+    text-decoration-style: dotted;
+    text-decoration-color: rgb(156, 163, 175);
+    text-decoration-line: underline;
+    cursor: pointer;
+    color: rgb(107, 114, 128);
+    text-decoration: underline 1px dotted rgb(156, 163, 175);
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-10 {
+    margin-top: 30px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-11 {
+    color: transparentborder-radius:20px;
+    user-select: none;
+    width: 4rem;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    vertical-align: middle;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+    border-radius: 20px;
+}
+
+.style-12 {
+    line-height: 26px;
+    margin-top: 24px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-13 {
+    margin: 0px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-14 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-15 {
+    margin-top: 16px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-16 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+    text-decoration-style: dotted;
+    text-decoration-color: rgb(156, 163, 175);
+    cursor: pointer;
+    color: rgb(23, 23, 23);
+    text-decoration: none 1px dotted rgb(156, 163, 175);
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-17 {
+    margin-top: 40px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-18 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    margin: 0px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-19 {
+    margin-top: 24px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-20 {
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 16px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-21 {
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-22 {
+    font-weight: 500;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-23 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-24 {
+    color: rgb(251, 146, 60);
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 8px;
+    padding-right: 8px;
+    --tw-gradient-to: #ffedd5 1;
+    --tw-gradient-from: #fff7ed 1;
+    background-image: linear-gradient(to right, rgb(255, 247, 237), rgb(255, 237, 213));
+    border-radius: 8px;
+    gap: 8px;
+    align-items: center;
+    cursor: default;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-25 {
+    width: 1rem;
+    height: 16px;
+    display: block;
+    vertical-align: middle;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-26 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-27 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-28 {
+    color: rgb(75, 85, 99);
+    margin-top: 16px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-29 {
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 16px;
+    margin-bottom: 0px;
+    gap: 16px;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-30 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    color: rgb(255, 255, 255);
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 16px;
+    padding-right: 16px;
+    background-color: rgb(17, 24, 39);
+    border-radius: 8px;
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-31 {
+    color: rgb(23, 23, 23);
+    text-decoration: none solid rgb(23, 23, 23);
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-32 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    color: rgb(107, 114, 128);
+    font-weight: 500;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 16px;
+    padding-right: 16px;
+    background-color: rgb(243, 244, 246);
+    border-radius: 8px;
+    gap: 4px;
+    align-items: center;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-33 {
+    width: 0.75rem;
+    height: 12px;
+    display: block;
+    vertical-align: middle;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-34 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-35 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-36 {
+    color: rgb(107, 114, 128);
+    letter-spacing: 0.3px;
+    text-transform: uppercase;
+    font-size: 12px;
+    line-height: 16px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+    padding-top: 4px;
+    margin-top: 16px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-37 {
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 16px;
+    margin-top: 16px;
+    margin-bottom: 0px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-38 {
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-39 {
+    font-weight: 500;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-40 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-41 {
+    color: rgb(75, 85, 99);
+    margin-top: 16px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-42 {
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 16px;
+    margin-bottom: 0px;
+    gap: 16px;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-43 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    color: rgb(255, 255, 255);
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 16px;
+    padding-right: 16px;
+    background-color: rgb(17, 24, 39);
+    border-radius: 8px;
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-44 {
+    color: rgb(23, 23, 23);
+    text-decoration: none solid rgb(23, 23, 23);
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-45 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    color: rgb(107, 114, 128);
+    font-weight: 500;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 16px;
+    padding-right: 16px;
+    background-color: rgb(243, 244, 246);
+    border-radius: 8px;
+    gap: 4px;
+    align-items: center;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-46 {
+    width: 0.75rem;
+    height: 12px;
+    display: block;
+    vertical-align: middle;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-47 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-48 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-49 {
+    color: rgb(107, 114, 128);
+    letter-spacing: 0.3px;
+    text-transform: uppercase;
+    font-size: 12px;
+    line-height: 16px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+    padding-top: 4px;
+    margin-top: 16px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-50 {
+    margin-top: 48px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-51 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    margin: 0px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-52 {
+    gap: 28px;
+    grid-template-columns: 380px;
+    display: grid;
+    margin-top: 24px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-53 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-54 {
+    gap: 16px;
+    align-items: center;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-55 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+    text-decoration-style: dotted;
+    text-decoration-color: rgb(156, 163, 175);
+    text-decoration-line: underline;
+    font-weight: 500;
+    cursor: pointer;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-56 {
+    color: rgb(23, 23, 23);
+    text-decoration: underline 1px dotted rgb(156, 163, 175);
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-57 {
+    color: rgb(23, 23, 23);
+    text-decoration: none solid rgb(23, 23, 23);
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-58 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    color: rgb(107, 114, 128);
+    cursor: pointer;
+    display: block;
+    vertical-align: middle;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-59 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-60 {
+    margin-top: 12px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-61 {
+    color: rgb(107, 114, 128);
+    text-transform: uppercase;
+    font-size: 12px;
+    line-height: 16px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+    margin-top: 16px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-62 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-63 {
+    gap: 16px;
+    align-items: center;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-64 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+    text-decoration-style: dotted;
+    text-decoration-color: rgb(156, 163, 175);
+    text-decoration-line: underline;
+    font-weight: 500;
+    cursor: pointer;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-65 {
+    color: rgb(23, 23, 23);
+    text-decoration: underline 1px dotted rgb(156, 163, 175);
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-66 {
+    color: rgb(23, 23, 23);
+    text-decoration: none solid rgb(23, 23, 23);
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-67 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    color: rgb(107, 114, 128);
+    cursor: pointer;
+    display: block;
+    vertical-align: middle;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-68 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-69 {
+    margin-top: 12px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-70 {
+    color: rgb(107, 114, 128);
+    text-transform: uppercase;
+    font-size: 12px;
+    line-height: 16px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+    margin-top: 16px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-71 {
+    margin-top: 48px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-72 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    margin: 0px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-73 {
+    margin-top: 24px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-74 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-75 {
+    gap: 8px;
+    flex-direction: column;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-76 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-77 {
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-78 {
+    margin-top: 16px;
+    margin-bottom: 0px;
+    gap: 8px;
+    flex-direction: column;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-79 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-80 {
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-81 {
+    margin-top: 16px;
+    margin-bottom: 0px;
+    gap: 8px;
+    flex-direction: column;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-82 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-83 {
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-84 {
+    margin-top: 16px;
+    margin-bottom: 0px;
+    gap: 8px;
+    flex-direction: column;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-85 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-86 {
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-87 {
+    margin-top: 16px;
+    margin-bottom: 0px;
+    gap: 8px;
+    flex-direction: column;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-88 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-89 {
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-90 {
+    margin-top: 16px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-91 {
+    gap: 16px;
+    align-items: center;
+    cursor: pointer;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-92 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    color: rgb(156, 163, 175);
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-93 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    color: rgb(156, 163, 175);
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+    user-select: none;
+    transform: matrix(0, 1, -1, 0, 0, 0);
+    width: fit-content;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-94 {
+    transition-duration: 0.2s;
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    overflow: hidden;
+    max-height: 0px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-95 {
+    margin-top: 16px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-96 {
+    margin-top: 16px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-97 {
+    margin-top: 16px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-98 {
+    font-weight: 700;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-99 {
+    margin-top: 48px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-100 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    margin: 0px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-101 {
+    line-height: 26px;
+    margin-top: 24px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-102 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-103 {
+    margin: 0px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-104 {
+    margin-top: 16px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-105 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+    text-decoration-style: dotted;
+    text-decoration-color: rgb(156, 163, 175);
+    cursor: pointer;
+    color: rgb(23, 23, 23);
+    text-decoration: none 1px dotted rgb(156, 163, 175);
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-106 {
+    margin-top: 16px;
+    margin-bottom: 0px;
+    position: relative;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-107 {
+    text-align: center;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-108 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    font-size: 12px;
+    line-height: 16px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-109 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    opacity: 0.4;
+    background-color: rgb(156, 163, 175);
+    border-color: rgb(75, 85, 99);
+    border-width: 1px;
+    border-radius: 9999px;
+    width: 6rem;
+    height: 96px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    border: 1px solid rgb(75, 85, 99);
+}
+
+.style-110 {
+    top: 76px;
+    left: 112px;
+    position: absolute;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-111 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    opacity: 0.4;
+    background-color: rgb(156, 163, 175);
+    border-color: rgb(75, 85, 99);
+    border-width: 1px;
+    border-radius: 9999px;
+    width: 6rem;
+    height: 96px;
+    box-sizing: border-box;
+    border: 1px solid rgb(75, 85, 99);
+}
+
+.style-112 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    font-size: 12px;
+    line-height: 16px;
+    left: -24px;
+    bottom: -24px;
+    position: absolute;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-113 {
+    top: 76px;
+    right: 112px;
+    position: absolute;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-114 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    opacity: 0.4;
+    background-color: rgb(156, 163, 175);
+    border-color: rgb(75, 85, 99);
+    border-width: 1px;
+    border-radius: 9999px;
+    width: 6rem;
+    height: 96px;
+    box-sizing: border-box;
+    border: 1px solid rgb(75, 85, 99);
+}
+
+.style-115 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    font-size: 12px;
+    line-height: 16px;
+    right: -24px;
+    bottom: -24px;
+    position: absolute;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-116 {
+    padding-top: 72px;
+    margin-top: 16px;
+    margin-bottom: 0px;
+    margin: 16px 0px 0px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-117 {
+    font-size: 12px;
+    line-height: 16px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    border-color: rgb(209, 213, 219);
+    border-top-width: 1px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    margin-top: 56px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-118 {
+    font-weight: 500;
+}
+
+.style-119 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-120 {
+    color: rgb(107, 114, 128);
+    gap: 16px;
+    justify-content: flex-end;
+    align-items: center;
+    user-select: none;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-121 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+    text-decoration-style: dotted;
+    text-decoration-color: rgb(156, 163, 175);
+    text-decoration-line: underline;
+    cursor: pointer;
+    color: rgb(107, 114, 128);
+    text-decoration: underline 1px dotted rgb(156, 163, 175);
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-122 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+    text-decoration-style: dotted;
+    text-decoration-color: rgb(156, 163, 175);
+    text-decoration-line: underline;
+    cursor: pointer;
+    color: rgb(107, 114, 128);
+    text-decoration: underline 1px dotted rgb(156, 163, 175);
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-123 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+    text-decoration-style: dotted;
+    text-decoration-color: rgb(156, 163, 175);
+    text-decoration-line: underline;
+    cursor: pointer;
+    color: rgb(107, 114, 128);
+    text-decoration: underline 1px dotted rgb(156, 163, 175);
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-124 {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.15s;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+    text-decoration-style: dotted;
+    text-decoration-color: rgb(156, 163, 175);
+    text-decoration-line: underline;
+    cursor: pointer;
+    color: rgb(107, 114, 128);
+    text-decoration: underline 1px dotted rgb(156, 163, 175);
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-125 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-126 {
+    border: 0px;
+    clip: rect(0px, 0px, 0px, 0px);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0px;
+    position: absolute;
+    top: 0px;
+    width: 1px;
+    white-space: nowrap;
+    overflow-wrap: normal;
+    clip: rect(0px, 0px, 0px, 0px);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0px;
+    position: absolute;
+    top: 0px;
+    width: 1px;
+    white-space: nowrap;
+    overflow-wrap: normal;
+    box-sizing: border-box;
+}
+
+.style-127 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-128 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.title-name{
+    font-size: 20px;
+    color: #fb923b;
+    font-weight: 500;
+}
